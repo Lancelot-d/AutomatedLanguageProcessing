@@ -30,6 +30,8 @@ main.py -e -t 5 --enc "utf8" --path "C:\AutomatedLanguageProcessing\Text\LesTroi
 
 ## The search for a synonym 
 
+How to start a synonym search :
+
 ```
 main.py -r -t 5
 ```
@@ -46,6 +48,8 @@ Example :
 
 
 ## Clustering
+
+How to start clustering :
 
 ```
 main.py -c -t 5 -k 3 -n 5
