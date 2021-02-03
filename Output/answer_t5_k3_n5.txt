@@ -1,0 +1,129 @@
+
+==================================================
+Iteration 0
+819 cluster changes in 3.62518572807312 seconds.
+
+There are 21102.0 points (words) grouped around the centroid no. 0.
+There are 508.0 points (words) grouped around the centroid no. 1.
+There are 311.0 points (words) grouped around the centroid no. 2.
+
+==================================================
+Iteration 1
+699 cluster changes in 3.7030327320098877 seconds.
+
+There are 21209.0 points (words) grouped around the centroid no. 0.
+There are 401.0 points (words) grouped around the centroid no. 1.
+There are 311.0 points (words) grouped around the centroid no. 2.
+
+==================================================
+Iteration 2
+265 cluster changes in 3.819999933242798 seconds.
+
+There are 21462.0 points (words) grouped around the centroid no. 0.
+There are 268.0 points (words) grouped around the centroid no. 1.
+There are 191.0 points (words) grouped around the centroid no. 2.
+
+==================================================
+Iteration 3
+151 cluster changes in 3.732940673828125 seconds.
+
+There are 21606.0 points (words) grouped around the centroid no. 0.
+There are 179.0 points (words) grouped around the centroid no. 1.
+There are 136.0 points (words) grouped around the centroid no. 2.
+
+==================================================
+Iteration 4
+79 cluster changes in 3.7452659606933594 seconds.
+
+There are 21683.0 points (words) grouped around the centroid no. 0.
+There are 134.0 points (words) grouped around the centroid no. 1.
+There are 104.0 points (words) grouped around the centroid no. 2.
+
+==================================================
+Iteration 5
+55 cluster changes in 3.734006881713867 seconds.
+
+There are 21738.0 points (words) grouped around the centroid no. 0.
+There are 99.0 points (words) grouped around the centroid no. 1.
+There are 84.0 points (words) grouped around the centroid no. 2.
+
+==================================================
+Iteration 6
+27 cluster changes in 3.703091621398926 seconds.
+
+There are 21765.0 points (words) grouped around the centroid no. 0.
+There are 78.0 points (words) grouped around the centroid no. 1.
+There are 78.0 points (words) grouped around the centroid no. 2.
+
+==================================================
+Iteration 7
+15 cluster changes in 3.694608449935913 seconds.
+
+There are 21780.0 points (words) grouped around the centroid no. 0.
+There are 65.0 points (words) grouped around the centroid no. 1.
+There are 76.0 points (words) grouped around the centroid no. 2.
+
+==================================================
+Iteration 8
+8 cluster changes in 3.7095704078674316 seconds.
+
+There are 21788.0 points (words) grouped around the centroid no. 0.
+There are 59.0 points (words) grouped around the centroid no. 1.
+There are 74.0 points (words) grouped around the centroid no. 2.
+
+==================================================
+Iteration 9
+3 cluster changes in 3.7044119834899902 seconds.
+
+There are 21791.0 points (words) grouped around the centroid no. 0.
+There are 57.0 points (words) grouped around the centroid no. 1.
+There are 73.0 points (words) grouped around the centroid no. 2.
+
+==================================================
+Iteration 10
+3 cluster changes in 3.7284789085388184 seconds.
+
+There are 21794.0 points (words) grouped around the centroid no. 0.
+There are 54.0 points (words) grouped around the centroid no. 1.
+There are 73.0 points (words) grouped around the centroid no. 2.
+
+==================================================
+Iteration 11
+1 cluster changes in 3.6857004165649414 seconds.
+
+There are 21795.0 points (words) grouped around the centroid no. 0.
+There are 53.0 points (words) grouped around the centroid no. 1.
+There are 73.0 points (words) grouped around the centroid no. 2.
+
+==================================================
+Iteration 12
+0 cluster changes in 3.6939101219177246 seconds.
+
+There are 21795.0 points (words) grouped around the centroid no. 0.
+There are 53.0 points (words) grouped around the centroid no. 1.
+There are 73.0 points (words) grouped around the centroid no. 2.
+
+******************************************************
+Group 0
+
+000 --> 6.35078925866648
+15 --> 6.35078925866648
+1572 --> 6.35078925866648
+1610 --> 6.35078925866648
+1625 --> 6.35078925866648
+
+Group 1
+
+étienne --> 19335.04485582058
+comme --> 21150.79957280171
+même --> 21154.648629405485
+où --> 22733.98825204699
+si --> 25338.271270914916
+
+Group 2
+
+machine --> 23491.5460686808
+beau --> 24629.6556577219
+eût --> 27768.299493338327
+encoding --> 28907.504972790393
+voix --> 33384.58716457121
